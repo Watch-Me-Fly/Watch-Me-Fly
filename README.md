@@ -1,5 +1,7 @@
-<img src="header.jpg" 
-width="50%"/>
+<p align="center">
+<img src="header.jpg" width="60%" />
+</p>
+
 
 
 ## ✨ Saja Alhayan ✨ 
