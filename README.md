@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <!-- social -->
 <p align="left">
-    <a href="https://www.linkedin.com/in/saja-alhayan/">
+    <a href="https://www.linkedin.com/in/saja-alhayan/" target="_blank">
         <img alt="My Linkedin" title="My Linkedin" src="https://custom-icon-badges.demolab.com/badge/Linkedin_Page-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 </p>
