@@ -31,7 +31,6 @@ Here are some ideas to get you started:
  / 
  Fr <img width="15px" src="https://img.icons8.com/color/48/228BE6/france.png"/>
  <br/>
- <br/>
 
 <!-- social -->
 <p align="left">
