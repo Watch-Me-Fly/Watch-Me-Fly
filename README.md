@@ -1,5 +1,5 @@
 <img src="header.jpg" 
-style="max-width: 50%; margin: 0 auto; border: 1px solid white;"/>
+width="50%"/>
 
 
 ## ✨ Saja Alhayan ✨ 
