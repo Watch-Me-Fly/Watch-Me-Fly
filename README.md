@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-****
+******
 
 ### Front End
 
@@ -58,7 +58,6 @@ Here are some ideas to get you started:
 
 ### Projects
 **`✨ soon ✨`**
-****
 
 
 ## 🔥 Streak stats
