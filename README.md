@@ -58,3 +58,21 @@ Here are some ideas to get you started:
 
 ### Projects
 **`✨ soon ✨`**
+****
+
+
+## 🔥 Streak stats
+***
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=watch-me-fly&show_icons=true&locale=en&layout=compact&theme=vue-dark&line_height=0">
+</p>
+
+## 📊 Github Stats
+***
+<!-- <p align="center">
+<img src = "https://github-readme-stats.vercel.app/api?username=watch-me-fly&show_icons=true&theme=vue-dark&hide=stars" >
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=watch-me-fly&theme=vue-dark" >
+</p> -->
+<p align="center">
+<img src="https://activity-graph.herokuapp.com/graph?username=watch-me-fly&theme=vue">
+</p>
