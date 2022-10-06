@@ -16,6 +16,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<style>
+    table 
+    {
+        width: 100%;
+    }
+    th, td
+    {
+        border: 1px solid black;
+    }
+    a
+    {
+        cursor: pointer;
+    }
+</style>
+
 💁🏽‍♀️ I'm an aspiring full-stack web engineer, with an affinity towards the front-end. <br/>
 👩🏽‍💻 I'm currently working on a full-stack project, built from the ground up, from planning and designing, to coding (php for the back-end) in order to pass my professional certification. <br/>
 💼 I'm looking for an opportunity to get my first job as a junior full-stack or front-end developer <br/>
@@ -37,27 +52,50 @@ Here are some ideas to get you started:
 
 ### Front End
 
-![HTML5](https://custom-icon-badges.demolab.com/badge/HTML-red.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://custom-icon-badges.demolab.com/badge/CSS-blue.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://custom-icon-badges.demolab.com/badge/javascript-yellow.svg?style=flat&logo=javascript&logoColor=black)
-![Bootstrap](https://custom-icon-badges.demolab.com/badge/bootstrap-6F38C5.svg?style=flat&logo=bootstrap&logoColor=white)
-![jQuery](https://custom-icon-badges.demolab.com/badge/jquery-3B9AE1.svg?style=flat&logo=jquery&logoColor=white)
-![ReactJS](https://custom-icon-badges.demolab.com/badge/react-5BB318.svg?style=flat&logo=react&logoColor=white)
+![HTML5](https://custom-icon-badges.demolab.com/badge/HTML5-red.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://custom-icon-badges.demolab.com/badge/CSS3-blue.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://custom-icon-badges.demolab.com/badge/Javascript-yellow.svg?style=flat&logo=javascript&logoColor=black)
+![Bootstrap](https://custom-icon-badges.demolab.com/badge/Bootstrap-6F38C5.svg?style=flat&logo=bootstrap&logoColor=white)
+![jQuery](https://custom-icon-badges.demolab.com/badge/jQuery-3B9AE1.svg?style=flat&logo=jquery&logoColor=white)
+![ReactJS](https://custom-icon-badges.demolab.com/badge/ReactJS-ADDDD0.svg?style=flat&logo=reactjs&logoColor=white)
 
 ### Back End
 
-![SQL](https://custom-icon-badges.demolab.com/badge/sql-25316D.svg?style=flat&logo=sql&logoColor=white)
-![PHP](https://custom-icon-badges.demolab.com/badge/php-5C2E7E.svg?style=flat&logo=php&logoColor=white)
+![SQL](https://custom-icon-badges.demolab.com/badge/MySQL-25316D.svg?style=flat&logo=mysql&logoColor=white)
+![PHP](https://custom-icon-badges.demolab.com/badge/php7-5C2E7E.svg?style=flat&logo=php&logoColor=white)
 ![GraphQL](https://custom-icon-badges.demolab.com/badge/GraphQL-D800A6.svg?style=flat&logo=GraphQL&logoColor=white)
 
 ### Technologies
 
 ![Git](https://custom-icon-badges.demolab.com/badge/git-A10035.svg?style=flat&logo=git&logoColor=white)
+![NPM](https://custom-icon-badges.demolab.com/badge/NPM-FF5B00.svg?style=flat&logo=npm&logoColor=white)
+![Yarn](https://custom-icon-badges.demolab.com/badge/Yarn-3B9AE1.svg?style=flat&logo=Yarn&logoColor=white)
+![Yarn](https://custom-icon-badges.demolab.com/badge/Yarn-3B9AE1.svg?style=flat&logo=Yarn&logoColor=white)
 ![slack](https://custom-icon-badges.demolab.com/badge/slack-367E18.svg?style=flat&logo=slack&logoColor=white)
 ![Notion](https://custom-icon-badges.demolab.com/badge/notion-F6FBF4.svg?style=flat&logo=notion&logoColor=black)
 
 ### Projects
 **`✨ soon ✨`**
+
+<!-- <table>
+    <tr>
+        <th>Project</th>
+        <th>Technologies</th>
+    </tr>
+    <tr>
+        <td>
+        <a>Remember Her</a>
+        </td>
+        <td>
+            <img src="https://custom-icon-badges.demolab.com/badge/HTML5-red.svg?style=flat&logo=html5&logoColor=white" >
+            <img src="https://custom-icon-badges.demolab.com/badge/CSS3-blue.svg?style=flat&logo=css3&logoColor=white" >
+            <img src="https://custom-icon-badges.demolab.com/badge/Javascript-yellow.svg?style=flat&logo=javascript&logoColor=black" >
+            <img src="https://custom-icon-badges.demolab.com/badge/Bootstrap-6F38C5.svg?style=flat&logo=bootstrap&logoColor=white" >
+            <img src="https://custom-icon-badges.demolab.com/badge/MySQL-25316D.svg?style=flat&logo=mysql&logoColor=white" >
+            <img src="https://custom-icon-badges.demolab.com/badge/php7-5C2E7E.svg?style=flat&logo=php&logoColor=white" >
+        </td>
+    </tr>
+</table> -->
 
 ***
 ## 🔥 Streak stats
@@ -75,3 +113,6 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=watch-me-fly&theme=vue">
 </p>
+
+
+
