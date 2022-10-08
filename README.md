@@ -70,7 +70,6 @@ Here are some ideas to get you started:
 ![Git](https://custom-icon-badges.demolab.com/badge/git-A10035.svg?style=flat&logo=git&logoColor=white)
 ![NPM](https://custom-icon-badges.demolab.com/badge/NPM-FF5B00.svg?style=flat&logo=npm&logoColor=white)
 ![Yarn](https://custom-icon-badges.demolab.com/badge/Yarn-3B9AE1.svg?style=flat&logo=Yarn&logoColor=white)
-![Yarn](https://custom-icon-badges.demolab.com/badge/Yarn-3B9AE1.svg?style=flat&logo=Yarn&logoColor=white)
 ![slack](https://custom-icon-badges.demolab.com/badge/slack-367E18.svg?style=flat&logo=slack&logoColor=white)
 ![Notion](https://custom-icon-badges.demolab.com/badge/notion-F6FBF4.svg?style=flat&logo=notion&logoColor=black)
 
