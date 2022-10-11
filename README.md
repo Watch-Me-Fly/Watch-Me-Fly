@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style>
+<!-- <style>
     table 
     {
         width: 100%;
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     {
         cursor: pointer;
     }
-</style>
+</style> -->
 
 💁🏽‍♀️ I'm an aspiring full-stack web engineer, with an affinity towards the front-end. <br/>
 👩🏽‍💻 I'm currently working on a full-stack project, built from the ground up, from planning and designing, to coding (php for the back-end) in order to pass my professional certification. <br/>
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 ### Back End
 
 ![SQL](https://custom-icon-badges.demolab.com/badge/MySQL-25316D.svg?style=flat&logo=mysql&logoColor=white)
-![PHP](https://custom-icon-badges.demolab.com/badge/php7-5C2E7E.svg?style=flat&logo=php&logoColor=white)
+![PHP](https://custom-icon-badges.demolab.com/badge/PHP7-5C2E7E.svg?style=flat&logo=php&logoColor=white)
 ![GraphQL](https://custom-icon-badges.demolab.com/badge/GraphQL-D800A6.svg?style=flat&logo=GraphQL&logoColor=white)
 
 ### Technologies
