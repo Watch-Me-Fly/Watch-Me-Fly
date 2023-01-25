@@ -1,6 +1,6 @@
 ## ✨ Saja Alhayan ✨ 
 
-### **` Junior Full-Stack Web Developer `** 
+### **` Junior Cobol Developer | Junior Full-Stack Web Developer `** 
 <!--
 **Watch-Me-Fly/Watch-Me-Fly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,10 +30,9 @@ Here are some ideas to get you started:
         cursor: pointer;
     }
 </style> -->
-
-💁🏽‍♀️ I'm an aspiring full-stack web engineer, with an affinity towards the front-end. <br/>
-👩🏽‍💻 I'm currently working on a full-stack project, built from the ground up, from planning and designing, to coding (php for the back-end) in order to pass my professional certification. <br/>
-💼 I'm looking for an opportunity to get my first job as a junior full-stack or front-end developer <br/>
+💼 Currently employed as a Junior Cobol Engineer
+💁🏽‍♀️ An aspiring full-stack web engineer, with an affinity towards the front-end. <br/>
+👩🏽‍💻 Working on a full-stack project, built from the ground up, from planning and designing, to coding (php for the back-end) in order to pass my professional certification. <br/>
 🗣 -=| Ar <img width="15px" src="https://img.icons8.com/color/48/000000/saudi-arabia.png"/>
  / 
  En <img width="15px" src="https://img.icons8.com/color/48/000000/great-britain.png"/>
