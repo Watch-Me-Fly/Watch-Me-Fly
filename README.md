@@ -18,7 +18,7 @@
 * 🔭 Working on **resetting my GitHub profile**
 * 💻 Preparing new personal projects showcasing clean architecture and logic
 ***
-#### Technical Stack
+#### Technical Stack :
 
 *(Click a tag to explore my projects by language)*
 
@@ -26,7 +26,7 @@
 [![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)](https://github.com/watch-me-fly?tab=repositories&q=spring)
 [![COBOL](https://img.shields.io/badge/-COBOL-blue)](https://github.com/watch-me-fly?tab=repositories&q=&type=&language=cobol)
 
-#### GitHub Stats
+#### GitHub Stats :
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=watch-me-fly&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=watch-me-fly&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
