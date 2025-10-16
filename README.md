@@ -16,7 +16,7 @@
 #### Current Focus :
 * 🌱 Strengthening my skills in **Java, Spring Boot**, and **REST API Design**.
 * 🔭 Working on **resetting my GitHub profile**
-* 💻 Preparing new personal projects showcasing clean architecture and logic
+* 💻 Creating new personal projects focused on clean architecture.
 ***
 #### Technical Stack :
 
